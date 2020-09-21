@@ -59,3 +59,6 @@ Nesta tela o usuário poderá escolher uma das tabelas já salvas, visualizá-la
 Através do link abaixo é possível a visualização do protótipo referente à primeira entrega, conforme acordado em reunião com a empresa. Por ele é possível navegar pelas telas, entendendo o fluxo e função dos botões e menus.
 
 https://www.figma.com/proto/1rBjfXbWEsyYyZWzS42QBh/Acesso?node-id=190%3A420&scaling=min-zoom
+
+##Demonstração do Protótipo
+![](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/sprint1/Loading%20images/Prot%C3%B3tipo%20-%20Figma.gif?raw=true)
