@@ -60,5 +60,5 @@ Através do link abaixo é possível a visualização do protótipo referente à
 
 https://www.figma.com/proto/1rBjfXbWEsyYyZWzS42QBh/Acesso?node-id=190%3A420&scaling=min-zoom
 
-##Demonstração do Protótipo
+## Demonstração do Protótipo
 ![](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/sprint1/Loading%20images/Prot%C3%B3tipo%20-%20Figma.gif?raw=true)
