@@ -3,7 +3,7 @@
 
 # Story Card
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Sprint%202%20card.jpeg?raw=true"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Sprint%202.png?raw=true"/>
 
 
 ## Requisitos atendidos:
@@ -16,7 +16,7 @@
 
 [RF006] O sistema deve fazer a comunicação com a base de processamento de dados e com o Banco de Dados Postgre.
 
-*	Como Analista de dados espaciais quero carregar que um sistema que suporte os arquivos de extensão shapefile para iniciar o processo de extração.
+*	Como Analista de dados espaciais quero carregar um sistema que suporte os arquivos de extensão shapefile para iniciar o processo de extração.
 *	Como Analista de dados espaciais preciso que os dados estejam dispostos de forma consistente e padronizada, para evitar erros e facilitar a visualização na troca de telas.
 *	Como Analista de dados espaciais preciso que o campo de carregamento de arquivos, só aceite arquivos do tipo shapefile para a prevenção de erros. 
 *	Como Analista de dados espaciais preciso que abra uma janela de comunicação para a confirmação da operação que está sendo realizada, visando a prevenção de erros. 
