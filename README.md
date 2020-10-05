@@ -47,5 +47,5 @@
 
 # Gráfico de Burndown
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Documenta%C3%A7%C3%A3o/Burndown%20GEOFPI%20-%20Sprint%202.pdf?raw=true"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Burndown%20Sprint%202.png?raw=true"/>
 
