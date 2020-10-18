@@ -1,23 +1,22 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom'
-import Home from './app/pages/home';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-import NotFound from './app/pages/notFound'
-import Connection from './app/pages/connection';
-import About from './app/pages/about';
-import DeParaShp from './app/pages/deparashp';
+import About from './pages/About/index';
+import Options from './pages/Options/index';
+import Home from './pages/Home/index';
+import NotFound from './pages/NotFound';
+import Shapefile from './pages/Shapefile/index';
 
 
 const Routes = () => (
     <BrowserRouter>
         <Switch>
-            <Route path="/" exact={true} component={Home} />
-            <Route path="/connection" component={Connection} />
-            <Route path="/about" component={About} />
-            <Route path="/deparashp" component={DeParaShp} />
            
+            <Route path="/about" component={About} />
+            <Route path="/options" component={Options} />
+            <Route path="/" exact={true} component={Home} />
+            <Route path="/shapefile" component={Shapefile} />
             <Route path='*' component={NotFound} />
-            
         </Switch>
     </BrowserRouter>
 );

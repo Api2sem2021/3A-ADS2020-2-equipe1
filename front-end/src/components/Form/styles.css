@@ -127,7 +127,3 @@ form h1:hover{
     cursor: pointer;
 }
 
-input[type=file]{
-    background-color: #fe6d00;
-    width: auto;
-}

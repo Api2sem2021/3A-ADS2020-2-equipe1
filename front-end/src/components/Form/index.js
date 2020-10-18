@@ -19,19 +19,15 @@ export default function Formcon(){
   async function handleLogin() { 
     
     try{
-        history.push('/options');
+        
         const response = await con( host, port, database, username, password );
        
         
         console.log(response);
         if(response.status === 201){
-          localStorage.setItem('host',host)
-          localStorage.setItem('database',database)
-          localStorage.setItem('username',username)
-          localStorage.setItem('port',port)
-          localStorage.setItem('password',password)
+         
           alert("Conectado ao PostgreSQL!")
-          
+          history.push('/options');
       }
       else{
         alert("Dados Inválidos!")

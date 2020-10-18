@@ -1,8 +1,8 @@
 import api from './api';
 
-export const upload = async (formdata) => {
+export const saving = async (name,json) => {
     try{
-        const response = await api.post('/shpRead', formdata);
+        const response = await api.post('/shpSave/'+name, json);
         console.log(response);
         return response;
       }
