@@ -3,25 +3,32 @@
 
 # Story Card
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Sprint%202.png?raw=true"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Card%20Sprint%202.png?raw=true"/>
 
 
 ## Requisitos atendidos:
 
-[RF003] O sistema deve permitr criar uma nova transformação de dados shapefile para PsotgreSQL com extensão espacial Postgis.
+[RF005] O sistema deve permitir fazer a transformação de dados shapefile para PsotgreSQL com extensão espacial Postgis.
 
-[RF004] O sistema deve carregar os dados geográficos primitivos (ponto, linha e polígono) e seus atributos alfanuméricos em tabelas existentes de banco de dados geográficos.
+[RF006] O sistema deve fazer a comunicação com a base de processamento de dados e com o Banco de Dados.
 
-[RF005]O sistema deve fazer a extração dos dados shapefile e conduzir para a staging area , onde eles são convertidos para um único formato. 
+[RF007]O sistema deve fazer a extração dos dados shapefile e conduzir para a staging área , onde eles são convertidos para um único formato. 
 
-[RF006] O sistema deve fazer a comunicação com a base de processamento de dados e com o Banco de Dados Postgre.
+[RF008] O sistema deve carregar os dados geográficos primitivos (ponto, linha e polígono) e seus atributos alfanuméricos em tabelas existentes de banco de dados geográficos.
 
-*	Como Analista de dados espaciais quero carregar um sistema que suporte os arquivos de extensão shapefile para iniciar o processo de extração.
-*	Como Analista de dados espaciais preciso que os dados estejam dispostos de forma consistente e padronizada, para evitar erros e facilitar a visualização na troca de telas.
+[RF009] O sistema após a extração, deverá iniciar a etapa de transformação dos dados. Nessa fase eles serão padronizados e parametrizados de acordo com a estrutura de Banco de Dados fornecida pelo cliente. 
+
+## *User Story*
+*	Como Analista de dados espaciais quero um sistema que suporte os arquivos de extensão shapefile para iniciar o processo de extração.
 *	Como Analista de dados espaciais preciso que o campo de carregamento de arquivos, só aceite arquivos do tipo shapefile para a prevenção de erros. 
 *	Como Analista de dados espaciais preciso que abra uma janela de comunicação para a confirmação da operação que está sendo realizada, visando a prevenção de erros. 
 *	Como Analista de dados espaciais, preciso que o sistema faça a conversão dos dados para um único formato que será encaminhado para o Banco de Dados.
 *	Como Analista de dados espaciais quero que o sistema se comunique com o banco de dados PostgreSQL com extensão Postgis para iniciar o processo de transformação dos dados. 
+*	Como Analista de dados espaciais quero que o sistema faça a exibição dos parâmetros definidos previamente para o carregamento na base de dados.
+*	Como Analista de dados espaciais, preciso que o sistema faça a exibição dos dados contidos nos arquivos shapefile para a parametrização com o banco de dados. 
+*	Como Analista de dados espaciais preciso que o sistema me abra uma caixa de diálogo com as opções de parametrização e um botão de importação dos dados. 
+*	Como Analista de dados espaciais preciso controlar o fluxo de transformação de dados. 
+
 
 
 
@@ -43,9 +50,9 @@
 
 # Funcionalidades desenvolvidas (demo)
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/GEOFPI.gif?raw=true"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Sprint2.gif?raw=true"/>
 
 # Gráfico de Burndown
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Burndown%20Sprint%202.png?raw=true"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/gr%C3%A1fico%20de%20Burndown%20Sprint%202%20-%20atualizado.png?raw=true"/>
 
