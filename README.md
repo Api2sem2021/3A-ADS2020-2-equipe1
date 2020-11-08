@@ -28,5 +28,4 @@
 
 ## Funcionalidades desenvolvidas (demo)
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/GEOFPI(funcionalidades%20novas).gif?raw=true
-"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/GEOFPI(funcionalidades%20novas).gif?raw=true"/>
