@@ -26,6 +26,18 @@
 * Agrega à produtividade dos especialistas analíticos porque o processo não exige que os profissionais escrevam códigos ou scripts;
 * O usuário poderá ter uma visão ampla da ferramenta e sugerir possíveis ajustes de navegação nos ambientes desenvolvidos.
 
+## Funcionalidades desenvolvidas na Sprint 3
+
+* O usuário poderá selecionar uma tabela do banco de dados e fazer a tranformação para arquivo shapefile
+* O usuário poderá selecionar uma tabela do banco de dados para ler os atributos
+* O usuário poderá selecionar uma tabela do banco de dados para ver o mapa
+* O usuário poderá deletar os atributos de um shapefile dentro de uma tabela do banco de dados
+
 ## Funcionalidades desenvolvidas (demo)
 
 <img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/GEOFPI(funcionalidades%20novas).gif?raw=true"/>
+
+# Gráfico de Burndown Sprint 3.png
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Burndown%20Sprint%203.png?raw=true"/>
+
+
