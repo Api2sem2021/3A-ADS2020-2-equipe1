@@ -26,7 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GEOFPI(sprint%204).gif"/>
 
-# Gráfico de Burndown Sprint 3.png
+# Gráfico de Burndown Sprint 4
 <img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/Burndown%20sprint%204.png"/>
 
 
